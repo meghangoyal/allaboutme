@@ -1,0 +1,48 @@
+body {
+  background-color: #D3D3D3
+}
+img.img-index {
+  height: 500px;
+  width: 370px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+  background: #023B72;
+}
+h1 {
+  font-size: 36px;
+  font-style: normal;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 23px;
+}
+h4  {
+  color: black;
+  text-align: center;
+}
+img.img-favplace {
+  height: 450px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.img-favthing {
+  height: 450px;
+  width: 650px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
+img.img-fam {
+  height: 450px;
+  width: 650px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
